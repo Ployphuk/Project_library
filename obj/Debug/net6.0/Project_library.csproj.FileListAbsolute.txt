@@ -1,0 +1,15 @@
+D:\Git\Project_library\obj\Debug\net6.0\Project_library.csproj.AssemblyReference.cache
+D:\Git\Project_library\obj\Debug\net6.0\Project_library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\Project_library\obj\Debug\net6.0\Project_library.AssemblyInfoInputs.cache
+D:\Git\Project_library\obj\Debug\net6.0\Project_library.AssemblyInfo.cs
+D:\Git\Project_library\obj\Debug\net6.0\Project_library.csproj.CoreCompileInputs.cache
+D:\Git\Project_library\bin\Debug\net6.0\Project_library.exe
+D:\Git\Project_library\bin\Debug\net6.0\Project_library.deps.json
+D:\Git\Project_library\bin\Debug\net6.0\Project_library.runtimeconfig.json
+D:\Git\Project_library\bin\Debug\net6.0\Project_library.dll
+D:\Git\Project_library\bin\Debug\net6.0\Project_library.pdb
+D:\Git\Project_library\obj\Debug\net6.0\Project_library.dll
+D:\Git\Project_library\obj\Debug\net6.0\refint\Project_library.dll
+D:\Git\Project_library\obj\Debug\net6.0\Project_library.pdb
+D:\Git\Project_library\obj\Debug\net6.0\Project_library.genruntimeconfig.cache
+D:\Git\Project_library\obj\Debug\net6.0\ref\Project_library.dll
